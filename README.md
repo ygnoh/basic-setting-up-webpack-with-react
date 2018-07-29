@@ -1,3 +1,3 @@
-# basic-setting-up-webpack-with-react
+## basic-setting-up-webpack-with-react
 
-## Follow the commits to set up!
+### Follow the commits to set up!
